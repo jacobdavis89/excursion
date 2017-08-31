@@ -1,0 +1,45 @@
+* {
+  background-color: black;
+  font-family: Verdana;
+  text-align: center;
+}
+
+
+h1 {
+  color: white;
+}
+
+
+.discover h1 {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+
+.travelguide h1 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+
+.comingsoon h1 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+
+#points, #copyright {
+  font-size: 21px;
+  color: Gray;
+}
+
+
+.comingsoon #copyright {
+  text-align: right;
+}
